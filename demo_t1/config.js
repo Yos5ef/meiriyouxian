@@ -1,0 +1,16 @@
+/**
+ * 配置
+ *
+ * @author Johnny Guo 2017-11-15.
+ */
+var db = {
+    host:'localhost',
+    port:3306,
+    user:'root',
+    password:'123456',
+    database:'youxian'
+};
+
+module.exports.db = db;
+
+
